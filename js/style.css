@@ -1,0 +1,27 @@
+form{
+	width: 300px;
+	margin-left: 500px;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	
+	border-radius: 10px;
+	border-color: grey;
+	
+	border-right-style: ridge; 
+	border-bottom-style: ridge; 
+
+}
+
+header{
+	height: 50px;
+}
+
+footer{
+	height: 50px;	
+}
+
+#returnButton{
+	margin-right: 10px;
+}
